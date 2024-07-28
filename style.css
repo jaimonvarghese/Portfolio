@@ -481,6 +481,9 @@ section{
   .home-img img{
     width: 56vw;
   }
+  .projects{
+    text-align: center;
+  }
   .about{
     flex-direction: column-reverse;
     text-align: center;
