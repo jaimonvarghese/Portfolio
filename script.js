@@ -8,7 +8,7 @@ menuIcon.onclick = () => {
 
 
 const typed = new Typed('.multiple-text',{
-	strings:['Software Engineer','Flutter Developer','Frontend Developer','HTML Developer'],
+	strings:['Software Developer','Flutter Developer','Frontend Developer','HTML Developer','Web Developer'],
 	typeSpeed:100,
 	backSpeed:100,
 	backDelay:1000,
